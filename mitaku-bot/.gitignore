@@ -1,0 +1,4 @@
+.env
+mitaku_data/
+__pycache__/
+*.py[cod]
